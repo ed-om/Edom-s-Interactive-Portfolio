@@ -55,7 +55,3 @@ The camera maths (`cameraFrames`, `wideFrame`) and the CSS read the same mode, s
 ## Ending commands
 
 At the end of the story the terminal accepts `stay` (go back to the page and keep exploring; the footer links stay available) and `exit` (close the session). `reopen` replays the story. `stay` and `exit` are also clickable buttons under the prompt.
-
-## Wording
-
-All former "field notes" labels now read "portfolio" (chapter labels, rail, footer, opening credit, terminal prompt, project dialog, page title). Search the `src` folder for `PORTFOLIO` to adjust the wording in one pass.
